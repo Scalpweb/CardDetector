@@ -1,0 +1,14 @@
+{
+  "name": "CardDetector",
+  "version": "0.1.2",
+  "description": "Well, guess what...",
+  "cordova": {
+    "id": "scalpian-plugin-card-detector",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [],
+  "author": "Pascal Scalpweb Mugnier",
+  "license": "Private"
+}
